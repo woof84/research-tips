@@ -1,22 +1,25 @@
 ---
-title:  "Remote Access - Get configured with VPN or Proxy"
+title:  "Remote Access - Get configured with VPN or Proxy on Mac, Windows, and Chromebook computers"
 date:   2010-01-04
 authors: 
+    - doug-worsham
+    - Nadia Brooks
     - Michael Lima-Sabatini
+    - Kate Pham
     - Natalie Selzer
     - kian-ravaei
     - hannah-sutherland
-    - doug-worsham
     - Zoe Borovsky
     - Scott Martin
     - Sylvia Page
 contributors:
     - renee-romero
     - Alicia Reiley
+    - chris-lopez
+    - Diana King
     - Matthew Johnson
     - Simon Lee
     - Nisha Mody
-    - Kate Pham
 description: Configure your computer to access the library's many resources.
 thumbnail: /assets/tutorials/thumbnails/GetConfiguredThumbnail.jpg
 handout: /assets/handouts/vpn.pdf
@@ -68,16 +71,19 @@ tags:
                 <iframe src="https://www.youtube.com/embed/h1vVy_WuxYk" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               <blockquote>"I chose Proxy because I prefer logging in through a web browser without having to download any software on my computer." - Kate, Ethnic Studies</blockquote>
-            <a href="https://www.it.ucla.edu/it-support-center/services/proxy-server" class="btn btn-primary">Proxy Server</a>
+            <a href="https://www.it.ucla.edu/it-support-center/services/proxy-server" class="btn btn-primary">Set up a Proxy Server</a>
             </div>
         </div>
     </div>
         <div class="col-sm-12 col-md-6 mb-3">
         <div class="card h-100">
-          <h5 class="card-header">Proxy on Windows</h5>
+          <h5 class="card-header">VPN on Chromebook</h5>
           <div class="card-body text-center">
-                <img src="{{ '/assets/images/icons/np_video_1709497_808080.png' | relative_url }}" alt="Placeholder image - video coming soon!" class="img-fluid my-0 py-0" height="75%" width="75%" />
-              <blockquote>Coming soon!</blockquote>
+              <div class="embed-responsive embed-responsive-16by9">
+              <iframe src="https://www.youtube.com/embed/I9Kwrf_xyr0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              <blockquote>"I chose VPN because it is really simple to use!" - Nadia, Public Affairs</blockquote>
+              <a href="https://www.it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients" class="btn btn-primary">Download a UCLA VPN</a>
             </div>
         </div>
     </div>
