@@ -1,16 +1,21 @@
 ---
 title:  "Searching the UCLA Library & Melvyl Catalogs"
-date:   2019-09-03
+description: "How to find books and more in the UCLA Library catalog or in the Melvyl catalog"
+date: 2015-09-21
+last-updated:   2019-09-03
 authors: 
-    - Renee
-    - Kian
+    - renee-romero
+    - kian-ravaei
     - Julian Gautier
 contributors: 
-    - Doug
-    
-description: How to find books and more in the UCLA Library catalog or in the Melvyl catalog
+    - doug-worsham
 thumbnail: /assets/tutorials/thumbnails/CatalogSearchThumbnail.jpg
 category: Finding and Citing Sources
+sort-weight: 33
+learing-outcomes:
+    - Evalute differences between UCLA and Melvyl catalogs based on research needs
+    - Sketch navigation workflows appropriate to each catalog
+    - Locate resources for research in each catalog
 ---
 
 <p class="intro">Want to find books, media, and more from the UCLA library or from libraries around the world? This tutorial will give you time-saving tips on navigating the UCLA Libary catalog and the Melvyl catalog!</p>
@@ -28,4 +33,4 @@ category: Finding and Citing Sources
 <h3 class="mt-3">Give it a try:</h3>
 
 <p >Visit the UCLA Library website, <a href="https://www.library.ucla.edu/" target="_blank">www.library.ucla.edu/</a>, and choose either catalog to find books, media, and more! </p>
-<!-- include embed-and-share-buttons.html ? -->
+

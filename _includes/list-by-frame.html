@@ -1,0 +1,23 @@
+<!--
+Authority is Constructed and Contextual, Information Creation as a Process, Information Has Value, Research as Inquiry, Scholarship as Conversation, Searching as Strategic Exploration
+-->
+{% assign the-frames = "Authority is Constructed and Contextual, Information Creation as a Process, Information Has Value, Research as Inquiry, Scholarship as Conversation, Searching as Strategic Exploration" | split: ", " %}
+
+{% assign sorted-documents = site.documents | sort: "title" %}
+
+{% for frame in the-frames %}
+    <h2>{{frame}}</h2>
+    <ul>
+    {% for item in sorted-documents %}
+        {% if item.acrl-frames contains frame %}
+            <li><a href="{{ item.url | relative_url }}" >{{ item.title }}</a>
+                        {% if item.awards %}
+                            {% for award in item.awards %}
+                                {% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>
+                            {% endfor %}
+                        {% endif %}
+            </li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endfor %}

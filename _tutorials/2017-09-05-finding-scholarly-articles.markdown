@@ -1,6 +1,6 @@
 ---
 title:  "Finding Scholarly Articles"
-date:   2010-01-11
+date:   2017-09-05
 authors: 
     - taylor-harper
     - shannon-roux
@@ -21,6 +21,11 @@ awards:
     - merlot-5-star-editor-review
 thumbnail: /assets/tutorials/thumbnails/FindingArticlesThumbnail.jpg
 category: Finding and Citing Sources
+sort-weight: 33.2
+learning-outcomes:
+    - Navigate search filters
+    - Construct effective searches
+    - Locate full texts of articles
 ---
 
 <p class="intro">Ready to get the most out of your article search? This tutorial will help you successfully navigate search filters, construct effective searches, and download the full texts of your articles!</p>

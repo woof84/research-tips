@@ -1,6 +1,6 @@
 ---
-title:  "Reading Strategies"
-date:   2018-04-07 21:15:05 +0000
+title:  "Reading Strategies Playlist"
+date:   2018-06-01 21:15:05 +0000
 authors: 
     - kian-ravaei
     - jen-pierre
@@ -17,7 +17,10 @@ description:
 thumbnail: /assets/tutorials/thumbnails/ReadingStrategiesThumbnail.jpg
 handout:
 handout-thumbnail:
-category: Getting Started
+category: Reading Strategies
+sort-weight: 13
+learning-outcomes:
+   - Identify Various Reading Strategies (e.g. paraphrase as you read, make an annotation legend, prioritize new vocabulary, etc.)
 ---
 <p>The way you read will vary depending on what you are reading and what you need to get out of the reading! This resource provides a bank of quick and practical reading strategies that can help you build your own reading strategies toolbox. </p>
 

@@ -1,6 +1,7 @@
 ---
 title:  "Research Abstracts"
-date:   2010-01-09
+date:   2017-04-18
+description: "A research abstract is a snapshot of your research project that concisely presents your research and its significance."
 authors: 
     - Mary Tran
 contributors:
@@ -8,9 +9,13 @@ contributors:
     - caitlin-meyer
     - shannon-roux
     - doug-worsham
-description: A research abstract is a snapshot of your research project that concisely presents your research and its significance.
 thumbnail: /assets/tutorials/thumbnails/ResearchAbstractsThumbnail.jpg
-category: Sharing Your Research 
+category: Sharing Your Research
+sort-weight: 57
+learning-outcomes:
+    - Explain what a research abstract is
+    - Recognize differences between effective and ineffective research abstracts 
+    - Design an effective abstract
 tags:
 - research abstract
 - abstract
