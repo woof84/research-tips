@@ -5,11 +5,11 @@ layout: post
 
 <div class="col-md-12">
             <div class="card">
-                  <iframe src="{{ page.embed-url }}" width="100%" height="700" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
+                  <iframe src="{{ page.embed-url }}" width="100%" height="700"></iframe> 
               <div class="card-body">
                   <h5 class="card-title">{{ page.title }}</h5>
                 <p class="card-text">{{ page.description }}</p>
-                <a href="{{ page.handout-url  | relative_url }}" class="btn btn-primary">PDF</a>
+                <a href="{{ page.embed-url | replace: "preview", "view" }}" class="btn btn-primary">PDF</a>
               </div>
             </div>
 </div>

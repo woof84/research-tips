@@ -1,6 +1,6 @@
 ---
-title:  "Turn Questions into Keywords"
-date:   2015-01-09
+title: "Turn Questions into Keywords"
+date: 2015-01-09
 last-updated: 2019-07-12
 authors: 
     - taylor-harper
@@ -12,10 +12,17 @@ contributors:
     - UCLA Powell Library
 description: Improve the effectiveness of your searches by generating a variety of keywords.
 thumbnail: /assets/tutorials/thumbnails/QuestionsKeywordsThumbnail.jpg
-handout: /assets/handouts/turn-questions-into-keywords-d2-form.pdf
+handout: https://drive.google.com/file/d/19FhasaYHirsqBOzg_yfieSTjykKTtPfV/preview
 handout-thumbail: /assets/handouts/thumbnails/turn-questions-into-keywords-tn.png
 category: Finding and Citing Sources
 sort-weight: 32
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'Closed Captioning Available' }
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
+   - { text: 'Issues filed for two accessibility improvements - headers', date: '2020-07-17', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
     - Identify core concepts in research questions
     - List core concepts as keywords
@@ -27,7 +34,7 @@ tags:
 # image: featuredimagehere
 ---
 
-<p >Develop your research questions into keywords before you search. Think about your topic from a variety of perspectives to generate a big list of keywords.</p>
+<p>Develop your research questions into keywords before you search. Think about your topic from a variety of perspectives to generate a big list of keywords.</p>
 
 <!--
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/how-safe-is-recycled-water.png' | prepend: site.baseurl }}" alt="Multiple keywords can be generated from the research question - How safe is recycled water to drink?" data-caption="Multiple keywords can be generated from the research question - How safe is recycled water to drink?"> -->
@@ -37,7 +44,7 @@ tags:
 
 <h3 class="mt-3">Give it a try</h3>
 
-<p >First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings for each core concept.</p>
+<p>First, identify the core concepts in one of your research questions. Then, generate multiple synonyms and alternative phrasings for each core concept.</p>
 
 
 

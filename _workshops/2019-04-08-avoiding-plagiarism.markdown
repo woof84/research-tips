@@ -1,6 +1,6 @@
 ---
 title:  "Avoiding Plagiarism and Citing Sources"
-date:   2019-01-06
+date:   2019-04-08
 authors:
     - kian-ravaei
     - taylor-harper
@@ -20,6 +20,7 @@ contributors:
     - renee-romero
 awards:
     - merlot-5-star-editor-review
+    - primo2020
 merlot-url: https://www.merlot.org/merlot/viewMaterial.htm?id=773310623
 thumbnail: /assets/workshops/thumbnails/Certified-Citer.png
 description: "Avoiding plagiarism can be more tricky than it seems at first glance. Complete this activity to learn strategies for avoiding plagiarism."

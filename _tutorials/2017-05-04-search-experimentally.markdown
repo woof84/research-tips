@@ -6,6 +6,12 @@ thumbnail: /assets/tutorials/thumbnails/SearchExperimentallyThumbnail.jpg
 handout: 
 category: Finding and Citing Sources
 sort-weight: 34
+# ######
+# Accessibility info
+# ######
+accessibility-info:
+   - { text: 'WAVE tested - 0 errors', date: '2020-07-17', url: 'https://wave.webaim.org/' }
+   - { text: 'Issue filed for one accessibility improvement- headers', date: '2020-07-15', url: 'https://github.com/UCLALibrary/research-tips/issues' }
 learning-outcomes:
    - Use a variety of keywords to search for sources
    - Broaden and narrow search results (using tools such as Boolean Operators, etc.) 
