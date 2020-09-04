@@ -4,7 +4,8 @@ description: "A short and snappy description referencing the learning outcome an
 category: Getting Started with Research
 authors:
     - UCLA Undergraduate Research Center&#58; Arts, Humanities, and Social Sciences
-    - The WI+RE Team
+    - kian-ravaei
+    - doug-worsham
 ---
 <dl class="row">
   {% for entry in site.data.glossary %}
