@@ -30,13 +30,14 @@ acrl-frames:
     - Searching as Strategic Exploration
 # UCLA Library Core Competencies
 core-competencies:
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
 tags:
     - searching
     - finding articles
     - finding sources
     - google scholar search
+    - articles
 ---
 
 Using Google Scholar to find sources for your research can yield you a lot of articles, journals, books, and more. But how do you find the right sources? Here are some tips and tricks for maximizing Google Scholar's potential. Stay tuned for more coming soon!

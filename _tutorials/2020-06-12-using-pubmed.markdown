@@ -48,8 +48,8 @@ learning-outcomes:
 # List all core competencies for the resource.
 # See https://escholarship.org/uc/item/2t03q5bw for definitions and examples of each core competency
 core-competencies:
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
 # ACRL Framework for information literacy
 # List related ACRL frames for the resource
 # See http://www.ala.org/acrl/standards/ilframework for more information
@@ -64,6 +64,9 @@ tags:
     - Advanced Search Builder
     - New PubMed user interface
     - Search Strategies
+    - finding articles
+    - find articles
+    - article search
 #
 ---
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/T2_2v77PDuE" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

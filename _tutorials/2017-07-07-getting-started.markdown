@@ -48,12 +48,14 @@ acrl-frames:
     - Scholarship as Conversation
 # UCLA Library Core Competencies
 core-competencies:
-    - Define the goals, scope, and plan.
-    - Reflect on and refine the research process.
+    - Define the goals, scope, and plan
+    - Reflect on and refine the research process
 tags:
 - Getting started with research
 - getting started
 - research at UCLA
+- get started
+- undergraduate research
 ---
 
 <p>Looking to get involved in research at UCLA? Meet five UCLA Undergraduate students as they explain their unique research journeys. Anyone can do research, and UCLA has the resources to help you get started today!</p>

@@ -29,13 +29,15 @@ acrl-frames:
     - Scholarship as Conversation
 # UCLA Library Core Competencies
 core-competencies:
-    - Investigate diverse sources and perspectives. 
-    - Gather and organize information and data.
-    - Evaluate and synthesize information and data.
+    - Investigate diverse sources and perspectives
+    - Gather and organize information and data
+    - Evaluate and synthesize information and data
 tags:
     - writing a literature review
     - writing
     - reading
+    - write a literature review
+    - lit review
 featured: yes
 ---
 <h3>Overview</h3>

@@ -33,12 +33,15 @@ acrl-frames:
     - Research as Inquiry
 # UCLA Library Core Competencies
 core-competencies:
-    - Define the goals, scope, and plan.
-    - Investigate diverse sources and perspectives. 
+    - Define the goals, scope, and plan
+    - Investigate diverse sources and perspectives
 tags:
 - topic mapping
 - research questions
 - brainstorming
+- mindmapping
+- mind mapping
+- mind-mapping
 ---
 
 <p>Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>

@@ -22,10 +22,11 @@ acrl-frames:
     - Scholarship as Conversation
 # UCLA Library Core Competencies
 core-competencies:
-    - Share the work and engage with audiences. 
+    - Share the work and engage with audiences
 tags:
 - elevator speech
 - elevator pitch 
+- presentation skills
 ---
 <p> You've spent weeks, months, and maybe even years working on a research project. You know why this project is important and what your next steps will be, but are you prepared to explain all of that to the next person who asks you about your research? You should take some time now and create an elevator speech to pitch in these situations.</p>
 

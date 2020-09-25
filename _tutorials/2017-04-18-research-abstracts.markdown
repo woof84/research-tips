@@ -21,10 +21,11 @@ acrl-frames:
     - Scholarship as Conversation
 # UCLA Library Core Competencies
 core-competencies:
-    - Share the work and engage with audiences. 
+    - Share the work and engage with audiences
 tags:
 - research abstract
-- abstract
+- presentation abstract
+- writing an abstract
 ---
 <p>Are you applying to present your research project at a conference or submitting it for publication? If yes, you will most likely have to submit a research abstract. Here's a quick introduction that will teach you all about abstracts.</p>
 
