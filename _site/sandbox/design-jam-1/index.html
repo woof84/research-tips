@@ -576,6 +576,16 @@ Pointing students toward our other materials (once they have these resources, wh
 
 
 
+<!--Makes popovers work-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>
+
   </body>
 
 </html>
