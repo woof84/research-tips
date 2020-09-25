@@ -11,3 +11,12 @@
     <script type="text/javascript" src="{{ "/assets/js/materialize-readies.js" | relative_url }}"></script>
     <script type="text/javascript" src="{{ "/assets/js/materialize.js" | relative_url }}"></script>
 {% endif %}
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+        placement : 'right',
+        trigger : 'hover'
+    });
+});
+</script>
