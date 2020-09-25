@@ -565,3 +565,8 @@ header.masthead .post-heading .meta { font-size: 16px; font-weight: 300; font-st
     border-right: 0 !important;
   }
 }
+
+/*Table padding test*/
+tr.hide-table-padding td {
+  padding: 0;
+}
