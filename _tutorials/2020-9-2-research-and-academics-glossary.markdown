@@ -38,7 +38,7 @@ authors:
           </div>
           <div class="collapse float-right" id="{{ hrefname }}Example" data-parent="#{{ hrefname }}" style="width: 100%;">
             <div class="card card-header mb-3">
-              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Leo a diam sollicitudin tempor id eu.
             </div>
           </div>
           <div class="collapse float-right" id="{{ hrefname }}Resources" data-parent="#{{ hrefname }}" style="width: 100%;">
